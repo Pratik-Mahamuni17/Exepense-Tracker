@@ -1,0 +1,14 @@
+# Backend (Spring Boot)
+backend/target/
+backend/*.iml
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Frontend (React)
+frontend/node_modules/
+frontend/build/
+
+# Common
+*.log
+.DS_Store
