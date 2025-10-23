@@ -1,6 +1,6 @@
 # Expense Tracker
 
-![Expense Tracker Screenshot](Expense Tracker Image.png)
+![Expense Tracker Screenshot](Screenshot.png)
 
 A full-stack Expense Tracker app to manage personal expenses.  
 Backend: Spring Boot | Frontend: React.js
